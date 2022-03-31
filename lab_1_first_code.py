@@ -8,6 +8,8 @@ Created on Thu Mar 31 15:40:43 2022
 
 print('Aditi S is my favorite person. JK')
 
+print('you dont mean the JK')
+
 x = 7
 print (x*x)
 
