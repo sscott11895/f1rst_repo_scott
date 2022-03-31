@@ -10,3 +10,5 @@ print('Aditi S is my favorite person. JK')
 
 x = 7
 print (x*x)
+
+print('yikes yikes yikes merge conflict')
